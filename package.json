@@ -1,0 +1,24 @@
+{
+  "name": "new_monolith",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/usvishnuprakash/nodejs_modular_monolith_architecture.git"
+  },
+  "author": "usvishnuprakash@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usvishnuprakash/nodejs_modular_monolith_architecture/issues"
+  },
+  "homepage": "https://github.com/usvishnuprakash/nodejs_modular_monolith_architecture#readme",
+  "dependencies": {
+    "ajv": "^8.12.0",
+    "express": "^4.18.2"
+  }
+}
