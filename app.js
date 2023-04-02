@@ -1,5 +1,4 @@
 const express = require("express");
-
 const errorsIndexRoutes = require("./src/modules/errors/index/indexRoutes");
 
 const app = express();
